@@ -1,4 +1,4 @@
-	qeqweqweqwee:wqqweqwasdasd`adsdwedsqwewweqweqwqweqwe:qwe
+	sdfqeqweqweqwee:wqqweqwasdasd`adsdwedsqwewweqweqwqweqwe:qwe
   Scenario: Redirection from homepage to About-us page.
     Given I am on "/"
     Then I follow "About" in the "secondary_orange_menu_bar" region
