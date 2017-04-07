@@ -1,4 +1,4 @@
-  sdf123asdsdfasdScenario: Redirection from homepage to About-us page.
+  qwesdf123asdsdfasdScenario: Redirection from homepage to About-us page.
     Given I am on "/"
     Then I follow "About" in the "secondary_orange_menu_bar" region
     #Then print current URL
